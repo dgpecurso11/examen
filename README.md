@@ -3,8 +3,8 @@ Examen del curso básico de microservicios
 
 
 
-1.- Crear repositorio llamado github
-2.- Clonar el respo de gustavo Vertc
+1.- Crear repositorio llamado examen en github.
+2.- Clonar el respo de gustavo Vertx.
 3.- Crear 4 servicios REST del tipo GET, que tenga una clasew llamada Calculadora con los 4 siguientes servicios:
     -Suma
     -Resta
