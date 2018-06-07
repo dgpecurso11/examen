@@ -14,9 +14,24 @@ public class TestMyController extends AbstractVerticle {
         String result = sendGet("https://www.binance.com/api/v3/ticker/price?symbol=BTCUSDT");
         logger.info(result);
 
-	result = sendGet("http://0.0.0.0:8080/api/tercero?mode=aa");
-        logger.info(result);
+//http://localhost:8081/api/suma?a=50&b=9
+//http://localhost:8081/api/resta?a=50&b=9
+//http://localhost:8081/api/multiplica?a=50&b=9
+//http://localhost:8081/api/divide?a=50&b=9
+	/*
 
+result = sendGet("http://localhost:8081/api/suma?a=50&b=9");
+ logger.info(result);
+
+result = sendGet("http://localhost:8081/api/resta?a=50&b=9");
+ logger.info(result);
+
+result = sendGet("http://localhost:8081/api/multiplica?a=50&b=9");
+ logger.info(result);
+
+result = sendGet("http://localhost:8081/api/divide?a=50&b=9");
+ logger.info(result);
+*/
     }
 
 }
