@@ -6,3 +6,36 @@
 2018-06-07 23:08:29:431 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7663.04000000"}
 2018-06-07 23:11:17:392 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7663.04000000"}
 2018-06-07 23:11:45:103 INFO  TestMyController - {"symbol":"BTCUSDT","price":"7659.38000000"}
+2018-06-14 12:18:30:731 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6565.00000000"}
+2018-06-14 12:20:18:366 INFO  Calculadora - Inicializando Vertical
+2018-06-14 12:20:18:573 INFO  Calculadora - Vertical iniciada !!!
+2018-06-14 12:21:31:670 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6617.97000000"}
+2018-06-14 12:21:47:688 INFO  Calculadora - Inicializando Vertical
+2018-06-14 12:21:47:879 INFO  Calculadora - Vertical iniciada !!!
+2018-06-14 12:27:00:368 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6607.83000000"}
+2018-06-14 12:27:16:458 INFO  Calculadora - Inicializando Vertical
+2018-06-14 12:27:16:645 INFO  Calculadora - Vertical iniciada !!!
+2018-06-14 12:28:37:389 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6607.51000000"}
+2018-06-14 12:28:42:940 INFO  Calculadora - Inicializando Vertical
+2018-06-14 12:28:43:128 INFO  Calculadora - Vertical iniciada !!!
+2018-06-14 12:29:42:268 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6600.01000000"}
+2018-06-14 12:29:50:125 INFO  Calculadora - Inicializando Vertical
+2018-06-14 12:29:50:312 INFO  Calculadora - Vertical iniciada !!!
+2018-06-14 12:30:54:529 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6619.23000000"}
+2018-06-14 12:31:11:671 INFO  Calculadora - Inicializando Vertical
+2018-06-14 12:31:11:856 INFO  Calculadora - Vertical iniciada !!!
+2018-06-14 12:42:32:309 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6591.02000000"}
+2018-06-14 12:42:37:708 INFO  Calculadora - Inicializando Vertical
+2018-06-14 12:42:37:898 INFO  Calculadora - Vertical iniciada !!!
+2018-06-14 12:44:14:266 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6604.98000000"}
+2018-06-14 12:44:34:070 INFO  Calculadora - Inicializando Vertical
+2018-06-14 12:44:34:254 INFO  Calculadora - Vertical iniciada !!!
+2018-06-14 12:45:25:975 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6599.93000000"}
+2018-06-14 12:45:30:846 INFO  Calculadora - Inicializando Vertical
+2018-06-14 12:45:31:039 INFO  Calculadora - Vertical iniciada !!!
+2018-06-14 12:46:04:026 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6594.99000000"}
+2018-06-14 12:46:09:757 INFO  Calculadora - Inicializando Vertical
+2018-06-14 12:46:09:947 INFO  Calculadora - Vertical iniciada !!!
+2018-06-14 12:46:27:900 INFO  TestMyController - {"symbol":"BTCUSDT","price":"6596.94000000"}
+2018-06-14 12:46:31:536 INFO  Calculadora - Inicializando Vertical
+2018-06-14 12:46:31:721 INFO  Calculadora - Vertical iniciada !!!
